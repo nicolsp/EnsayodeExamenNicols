@@ -1,4 +1,4 @@
-package com.example.ensayodeexamennicols.RetrofitRemoto
+package com.example.ensayodeexamennicols.model.RetrofitRemoto
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

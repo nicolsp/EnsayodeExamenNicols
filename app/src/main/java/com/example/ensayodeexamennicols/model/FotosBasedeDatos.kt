@@ -1,8 +1,9 @@
-package com.example.ensayodeexamennicols.RoomLocal
+package com.example.ensayodeexamennicols.model
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import com.example.ensayodeexamennicols.RetrofitRemoto.Fotos
+import com.example.ensayodeexamennicols.model.Dao.FotosDao
+import com.example.ensayodeexamennicols.model.entities.Fotos
 
 private const val DATA_BASE_NAME = "fotos_db"
 

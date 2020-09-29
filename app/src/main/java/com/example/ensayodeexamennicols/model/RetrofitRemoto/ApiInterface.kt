@@ -1,6 +1,6 @@
-package com.example.ensayodeexamennicols.RetrofitRemoto
+package com.example.ensayodeexamennicols.model.RetrofitRemoto
 
-import android.telecom.Call
+import com.example.ensayodeexamennicols.model.entities.Fotos
 import retrofit2.Response
 import retrofit2.http.GET
 
